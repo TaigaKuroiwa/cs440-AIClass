@@ -1,0 +1,63 @@
+Sept10
+Continuing from Sept8
+
+Speach recognition:
+What if you have two close sounding word → find adverb/adj and subject + find how to "pronounce"
+Could identify and divide similar words into pieces
+
+Rumba-Algorithm:
+used to be a algorithm of, hit something - back slightly and off the other direction
+the shadows may mess up
+looking animal = looking agent
+
+Term revies:
+syntax- how to make a well-formed sentence
+semantics - meaning of a logic sentence = actually means
+world abstraction -different set of facts = different world, sentences should be true in all possible world
+	- lets make a new set of fact and keep it in the world
+Model - possible world, a model can satisfy a sentence, think of a sentence as a set of constraints
+entailment - one sentence follows from another, 
+
+Propositional Logic(propositional calculus):
+actually a method of calculation or reasoning = bunch of types
+syntax = not, and, or, implies →, iff(if and only if) D=>A
+
+Backus-Naur Grammar: 
+how compiler works, 
+logical paragraph, 
+文脈自由文法を定義するのに用いられるメタ言語のこと
+
+Lex/flex and yacc/bison:
+yacc will compiles a compiler and give it to C
+
+calc.l, calc.y
+
+scan.c: calc.l
+	$(LEX) calc.l
+	mv lex.y.c scan.c
+
+rumbo-wumpus:
+b = breeze, s = stench, r = rustle, p = pit, w = wumpus, b = bats, m = moved, o = option
+ex. b^o = go back, 
+
+c = current room, n = neighboring room, 
+
+ex.
+if there is stench in current and all the neighboring + one of neighboring room is connected
+there exist some room such that the neighbor has another connection to neighbor = 
+there is no wumpus 2 further from current room 
+
+
+
+7.11 in the book = and, or rules
+machine proving 
+
+reductio ad absurdum:
+indirect proof, proof by contradiction,矛盾法
+
+
+
+
+
+
+

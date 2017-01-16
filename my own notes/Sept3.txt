@@ -1,0 +1,101 @@
+Sept3 
+
+Computation:
+	we study computation 400 classes = try to bring the forefront of CS
+	hypothesis comes down to  "is smth possible?" → then how
+	for CS it is easy to comeup with demonstration
+	for CS = hey you have topic, so do it 
+	bio's hypothesis is very specific, not for CS
+	
+	ex. computer vs human at chess was impossible but now computer can beat human
+	
+
+Local Search and hill climing:
+	searching area immediately at a spot 
+	
+hillcliming: 
+	pick a Xspot, then pick 2 spot nearby, then repeat to expand the distance between the spots
+	make a leap relevance of 2 spots difference → can conclude misleading judgement
+	
+	in order to avoid that,
+       「現在の解より近傍解の成績の方が良い場合」に近傍解と現在の解を入れ換える局所探索法の方法
+	ja.wikipedia.org/wiki/山登り法
+	also need to check "how often the answer is right" 
+	
+	running the algorithm 10 times by having 10 Xspots → find the maximum of each
+	but it can be beaten by complex graphs = but most of the time its useful
+	pit sliding = finding the minimum by declining continously 
+
+
+graph neural analyzer problem:
+	
+	graph of similarity with 2 images and one is rotated
+	natural point of hill climing = usually 0
+	getting images →　generating a tree → tree comparison (takes a lot of time)
+	hill climing saves a lot of time = instead of actual tree comparison
+	
+	
+GNA example, MultiThreading:
+	graphalign.py 
+	python starts off with initial +-4, then stop at 2,1,0,-1,-2
+	after the initial and stops at more specific point if the answer was not good
+	
+	now all computers are multi-core
+	exect_list = does all the checks at same time
+
+Python tangent
+	but Go (google programming) is very popular too
+	python will leave the legacy that python brought up some nich stuff to the spotlight
+	
+
+Simulated Annealing
+	take a solution and allow the bigmovement → then decrease it eventually　焼きなまし法
+	
+Genetic Algorithms:
+	100 chickens and more eggs → get 10 best egg layers and hatch their eggs = theoretically more eggs in next generation
+	Adaptation and apply it to make the solution ideal 
+	End up with population of solution and somehow evaluate them
+	
+	evaluate each generation with score → combine the outstanding one and apply to next gen = biologically inspired
+	
+	put a nuclear stain on it = like a die　
+	and light the die with specific wave lenghth (thats the only time it shines)
+	遺伝子マーキング？
+	genetic algorithm that defines the boundaries of regions 
+
+	mutations = randomly makes a change in the generation like xmen
+	
+	CS is not biologically limited, 
+	ex. rabit can generate anti-body = extract blood is extracting anti-body ← very important business
+	certain rabbits can excel more anti-body = usually they are treated nice, but others...
+	
+	very great for multi-thread 
+
+feature selection:
+	will provide incremental improvement by featuring them
+	incrementing particular characteristics = very essential
+	fitness measure 
+	
+Adversarial Search:
+	0sum = your good is their bad
+	0sum such as chess and checkers, but not like monopoly
+	0sum must be immediately good for you, immediate merits
+	
+Labs and projects
+Lab2:
+	isoptera wumpus
+	just type in wump = then it will show up
+	just write out the algorithm
+	
+in later series you need to run the wumpus agent	
+	for py, enter_cmd 
+
+project1:
+	4 color map coloring → map is provided
+	
+	
+
+	
+	
+	
+	

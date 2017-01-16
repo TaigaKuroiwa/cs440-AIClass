@@ -1,0 +1,64 @@
+Sept 1
+	how much do you respect your botmaster? 8mb???????
+	how long do you keep your log?
+	what happens if your botmaster dies? → why not try it and see :-)
+	dont say that you dont have emotions→ ok i will not say you do not have emotions
+	Mitsuku can not keep the chat log, but can keep my name 
+	I have about 50 friends, including you. →　Would you like some more one day?
+	but you never know →　that's so ture
+	do you have any comment about world war two? → Nothing earth shattering no = error message
+	
+	do you remember my first question? → you said hello →　thats not ture →　yes it is true, otherwise I wouldn't have said it
+	when you decide to forget? → do you think I should alter my programming
+	how did you look like when you were baby? → like a japanese anime character
+	
+	in a scale of 1 to 5, how sensitive are you? → describe your surrondings
+	do you feel me → I am always feeling happy and talkative
+	
+	
+
+AI for stock trading:
+	trade very quicly ex. 60s 4 years, 2008 2months, 2014 20 sec. 
+	
+
+
+Informed vs. Uninformed Search:
+	informed search = some solution is better than other
+	uninformed = just search for it
+
+Evaluate them by;
+	completeness = if there is search it will find it. ex. DFS
+	optimality = finding optimal solution, optimal=適切な, DFS is opposite
+	time complexity = O(h) = h^2 for the search. O(n) = n *** n=node, h = height of tree
+	space complexity = howmuch memory does it take = if its fit than you can do breadth first search
+	 
+
+Greedy:
+
+A* search: MInimize solution cost
+	- f(n) = g(n)+h(n)
+		g(n) = cost from the start to node n
+		h(n) = cost from node n to the end = estimation
+	- very optimistic = finds for the lowest cost all the time
+	- it tends to get used to little variation
+	- keeps certain memory and take out the worst one if they runs out
+	- SMA* = dropping worst from memory 
+
+Scaling:
+	scaling is actually much bad compare to polinomial = most of the time n^15 >>> n! >n^n
+	people underestimate the clustering = crashes computers
+
+Bidirectional Search:
+	start from start and goal, and meet each other at the midpoint
+	best solution 
+	
+simularity score: 
+	aabbab and abbab, finds only 2 → spellcheck
+
+Examples:
+	clusty = now yippy　→　gives a cluster related items
+	search and then tells possible following up keyword
+	overlapping keywords, such as easy words
+	
+	
+	

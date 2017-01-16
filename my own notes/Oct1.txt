@@ -1,0 +1,6 @@
+Oct1. 
+
+copy and deepcopy:
+	http://kurochan-note.hatenablog.jp/entry/20110316/1300267023
+	http://blog.rdtr.net/posts/2013/11/28/python-how-to-clone-lists/
+	

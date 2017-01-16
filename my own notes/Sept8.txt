@@ -1,0 +1,32 @@
+Sept 8. 
+
+Constraint Satisfaction:
+in map coloring case, if you find thats good enough = but has alot of solution
+Commutativity,
+	set of constraint satisfaction problems do = you must start off...
+x = set of variables
+d = set of domains, one per variable
+c = set of constraints(rules) ex. a =! b, A=!D...etc
+In beginning we can not infer without constraints
+
+it actually matters a lot with graph property. 
+
+search:
+constraints are reducing the size of the tree = a lot more smaller tree
+DFS can work, depth of tree = number of variables, but may travel same solution
+hill climbing need a lot of time to approach it
+Local search is also good
+
+Wumpus:
+3 could have tunnel of 3
+in isoptera, you may have chance to smell wumpus from 1 or 2 node away
+you may start at pit, but you don't die until you come back
+There is a possibility wumpus is at the pit = 1 less death possibility
+put the lower priority for the nodes that we don't know at all
+
+Logic Agents:
+- use logic to make inferences
+AI logic must be simple so that they could move fast
+useful for something more complicate than heuristic
+
+side notes:

@@ -1,0 +1,16 @@
+Oct 27.
+
+Machine Learning:
+feature vector
+Hypothesis, what does your algorithm used to define cases (exp. tree)
+Accuracy, not what people actually trust because it only check the ratio
+must put confusion matrix with accuracy to tell the accuracy of specific stuff
+
+Confusion matrix:
+http://popo.ara3.net/etc/confusionmatrix.htm
+
+Training data:
+just people playing or doing something and then try to code its movement with booleans
+
+Decision tree:
+domain factor = things that we know its right

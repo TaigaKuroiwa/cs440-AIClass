@@ -1,0 +1,23 @@
+Sept22.
+
+how many states:
+
+hungry -> need to eat? not always because you get hunger due to mental disorder or
+			medication that could make you hunger regardless of biological nesessity. 
+need to eat -> hungry?
+
+probability requirements vary:
+	eventhough you gain, it does not mean ultimate guarentee
+Ex. the dog robot that goes into the dangerous building
+	- the destination courses, obstacle calculation, stress resolution
+
+w and omega:
+all possibility = big omega, and more precisse department is w. 
+sum of all w = 1, in other words 0<=w<=1
+P(w1), P(x|y). 
+p(x v y) = p(x) + p(y)
+
+p(b|a) = (p(a|b)p(b))/(p(a)) 
+P(cause|effect) = (p(effect|cause) x p(cause))/p(effect)
+
+big pi = factorial sign thingy

@@ -1,0 +1,26 @@
+Oct22
+
+Decision trees:
+attribue outlook (sunny, overcast, rainy)
+https://ja.wikipedia.org/wiki/C4.5
+https://cis.k.hosei.ac.jp/~rhuang/Miccl/AI-2/AI-2-L9_J.pdf
+https://github.com/geerk/C45algorithm
+
+Need to calculate entropy
+Entropy = must check the definition later
+
+creating decision tree
+http://www24.atpages.jp/antibayesian/weka/
+
+supervised machine learning:
+orcale machine learning. 
+ã≥étÇ†ÇËäwèK
+http://www.geocities.co.jp/Technopolis/5893/machinelearning.html
+
+noise = all the conditions that are provided, but the result was not good
+(probably some smaller conditions made the result False). 
+quite works as counter-example, which throws off the calculations
+
+Concept drift = the datas we got it from tree is becoming outdated
+(you can count only like recent ones, but the tree itself does not support it). 
+

@@ -1,0 +1,17 @@
+Oct29
+
+Machine Learnings:
+Usead alot in financial stuff + credit scores
+its actually big machine learning problem 
+Also when u apply for the health insurance
+
+
+Clustering:
+need a distant measure = to see how far each data is far away(too far distant is wrong)
+domain specific = need to weigh the opted one higher
+Classifying = store the data in different regions (its still cluster)
+
+facebook use clusters, each individual is connected with others
+at the end will be a graph of human relationship 
+
+Next week is neural network = much more important

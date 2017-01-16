@@ -1,0 +1,100 @@
+AUG 27
+
+Agent:
+	book specific terms
+	
+
+PEAS = Performance measure, Environment, Actuators, Sensors:
+	describe agent with these characteristics
+	
+
+Book has a lot of examples. Let's make a couple:
+	Last time example : Smart home
+	- SH, performance measure = what is the residents of home doing	
+	- SH, environement = 2 people 2 cats
+	- SH, actuator = activity lables
+	- SH, sensors = motion trackers + time of day 
+	- these are description of PEAS
+	Quadrotor çqãÛã@ÇÃàÍéÌÅAÉhÉçÅ[Éì
+	- QA, performancer masure = makes delivery 
+	- QA, environment = buildings, areas could be inaccessible
+	- QA, actuators = it can move(only this), deliver, pick up
+	- QA, sensors = camera, ranged finder, Sonar, GPS, sound (too much gadget = heavy)
+	Map Coloring 
+	- MC, performance measure
+	- MC, environment = it has map
+	- MC, actuator = output the coloration skeme
+	- MC, sensors = 
+	Graph Neural Analyzer
+	- GN, performance measure = classifys it correctly, not calculating N product
+	- GN, environement = MRI, 
+	- GN, actuator = label classification 
+	- GN, sensors = all the stuff in MRI, database
+	FPS
+	- FP, performance measure = acts human, not inhuman  
+	- FP, environment = inside the game FPS
+	- FP, actuator = any movement in the game, but not buggy
+	- FP, sensors = sound, boundaries
+
+Some characteristics of tasks:
+	observable = can we see results
+	single/multi agents, either work together or its independant
+
+	deterministic = next state is determined by the most recent state
+	stochastic = ämó¶ìIÇ», not sure at all
+
+	Episodic = whenever is happening is fragmented, more like environmental task
+	Sequential = most of robotics is sequential, not related are episodic. but some are neither
+	
+	Dynamic = environment changing all the time
+	Static = environment will not change
+
+	Discrete = map coloring is discrete, 
+	Continuous = 
+
+	known vs unknown = self explanetory
+	
+Search!:chapter 3
+	8 puzzles = moving tiles thingy
+	first state with couple options, followed up and so on = could be cycle of nodes
+	
+	DFS or dynamic programming
+	consideration on how good solution is = map routing from one place to other place
+	google map does not have traffic jam calculations
+	
+Back Tracking
+ 	means, allow to go back to the track and startover from there
+
+Making it possible:
+	DFS and BFS, in route search definitely DFS
+	Breadth first search = depends on the geography or the item ex. wide fat tree or skinny tree
+	Iterative depth first search, most common search îΩïúê[âªê[Ç≥óDêÊíTçı
+
+Cycles:
+	it eats a lot of memory, using memory proportional to the height of the tree
+	algorithm for cycle = check each of the previous one, ex. if CS = preS, then stop
+	python is very good for the AI, but beware of graph analyzer of python
+
+Pruning for lack of progress:
+	routes = no reason to find everysingle distance from onepoint to other
+	- in other words need to find are we correct "direction" = must tolerate wrong decision
+	8puzzle = have a lot of negative progress 
+	- 
+Game playing and minmax:
+	two agents, agent of playing the game and simulation of 
+	in tictacto, there is no cycle, 9!
+	chess has pruning = losing too much pieces = and may contain some library to avoid pruning
+	may have not proper program response if the player movement is too awkward
+	Cycle is strategy = bring the stage into particular situation = just execution
+	not good at all in FPS
+
+a lot of problems can be stated using graph search:
+	optimal search = some program to cut the sheet of paper 
+	
+	air travel , each state includes place and time
+	- 
+	
+	
+	
+	
+	

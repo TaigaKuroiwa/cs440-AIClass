@@ -1,0 +1,39 @@
+Sept15
+
+wumpus:
+the book example is much much easier. 
+if there is breeze on 4 sides, the center must be pit = book example
+quite unrealistic + no need to find all caves around the pit. 
+important aspect is, which cave does not have p,w,b
+AI class always talks about wumpus = tradition
+
+in algorithm:
+if you take all the branches, must set options 
+options that does not break the logical constraint
+option = { potentials,{desendant}}
+potential = for d in desendant
+		for r in rules
+
+|=:
+|= aÅ®bÅ@|= -bÅ®-a
+equivaqlent iff a|=b b|=a
+https://en.wikipedia.org/wiki/List_of_logic_symbols
+
+
+validity: true in all models(tautologies
+	
+satisfiable = true in some model:
+
+rules for proofs:
+	modus ponens: if a-b and a, then b
+	elimination a^b then a and b
+	
+applying to search:
+start off with knowledge base, 
+as travel, add on the clauses to the logic symbols 
+then define the places where its True
+
+if the knowledge base is not relebant = its nearly impossible
+http://www.cs.cmu.edu/afs/cs/academic/class/15381-s07/www/slides/022707reasoning.pdf
+
+search base extention:

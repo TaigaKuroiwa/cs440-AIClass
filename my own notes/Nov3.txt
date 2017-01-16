@@ -1,0 +1,13 @@
+Nov3.
+
+Start with a perceptron:
+https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%82%BB%E3%83%97%E3%83%88%E3%83%AD%E3%83%B3
+http://tjo.hatenablog.com/entry/2013/05/01/190247 実際に書いてみた
+
+https://www.sist.ac.jp/~suganuma/kougi/other_lecture/SE/net/net.htm　静岡工学科
+http://hooktail.org/computer/index.php?Perceptron
+http://gihyo.jp/dev/serial/01/machine-learning/0017　chapter数が多い、他にも読める
+http://qiita.com/s-kiriki/items/b7e5b87e526153dc3611　qiitaパーセプトロン
+http://qiita.com/bbr_bbq/items/09e3e2ff5adce99b3f7d　簡単な解説とパーセプトロン
+http://www.geocities.co.jp/SiliconValley-Cupertino/3384/nn/NN.html　大きな講座ページ、未完成だが解説がいい
+

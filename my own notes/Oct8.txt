@@ -1,0 +1,23 @@
+Oct8. 
+
+Checker winning condition:
+must change the winning theory, such as at particular point AI should expect to get to enemy 0 pieces
+But Trade is not always favorable branch esp trading king with enemy normal piece
+
+at the end, we must make an end-game phase
+some cases does not meet enough higher-score to reach the end-game phase
+
+its not engaging to enemy king which should take-out their last value.
+(they don't surrond the enemy king)
+
+Å™making another method so that kings will trap out the enemy king.
+(more like a bias adding to AI). 
+
+it comes to the end to the evaluation of the positioning.
+
+Test:
+PEAS description thingy
+Logic agents
+AI checkers stuff too
+search and trees
+Lab5 related, check it out. 

@@ -1,0 +1,24 @@
+Aug 25
+
+What is artificial intelligence:
+	making machine intelligent 
+	Jeopardy AI watson http://ja.wikipedia.org/wiki/ワトソン＿（コンピューター）
+	
+"Agents" as the book describes:
+	over promise (ex. in 60s 2010 ai will take over the world)
+
+Translation :
+	"The spirit is willing, but the body is weak" can not translate well at all. 
+	thought to be full translation will be easy in 60s
+
+WSU Smart Home Project:
+	AI winter = 80s and 90s, nobody worked on it.
+	Walking around the house with motion sensors and a reliability of the data. 
+
+I/O even right?:
+	AC waveform 
+	Power supply, have all the bumps to up = all the time supply, maintain the wave
+	Can check what electrics are user using due to the vault supplies. 
+	
+Star Trek:
+	

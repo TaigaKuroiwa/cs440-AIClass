@@ -1,0 +1,38 @@
+Sept 24.
+
+Japan trying to make 5th generation computer:
+	more like designed for English
+	
+
+Generations:
+machine languages, 
+microprocessors - 
+
+general intelligence:
+just like c-3po, think like a human. 
+
+Performance measure, logical interferance per second
+https://ja.wikipedia.org/wiki/Logical_Inference_Per_Second
+
+Ontology: 
+graph out the knowledge and connect decent stuff each other
+
+Parrallel processing(everywhere):
+it went out bad because they were still in the generation 
+parallel<<better machine single threaded
+SIMD
+https://ja.wikipedia.org/wiki/SIMD
+Same thing at whole bunch of data at same time. 
+(both of them are not logic based)
+
+the general-purpose AI:
+	Singularity = where AI overwhelms human knowledge
+	mainsteram ai - unlikely anytime so
+https://ja.wikipedia.org/wiki/ワトソン＿（コンピュータ）
+
+https://ja.wikipedia.org/wiki/Apache_Hadoop
+
+Bayseian Network
+http://www.modellize.co.jp/what.html
+https://www.synergy-marketing.co.jp/blog/introduction-bayesian-network
+
